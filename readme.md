@@ -10,7 +10,4 @@
 - スペースもしくは上方向キーを押すとジャンプ
 - Escで終了
 
-![Box image](/images/box_1.png)
- 
-
-
+![Box image](/images/box_run.gif)
